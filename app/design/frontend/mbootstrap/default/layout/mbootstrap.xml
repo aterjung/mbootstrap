@@ -49,13 +49,13 @@
 
 
                 <!-- Bootstrap framework styles -->
-                <action method="addItem"><type>skin_css</type><name>bootstrap/dist/css/bootstrap.min.css</name><params/></action>
-                <action method="addItem"><type>skin_css</type><name>bootstrap/dist/css/bootstrap-theme.min.css</name><params/></action>
+                <action method="addItem"><type>skin_css</type><name>bootstrap/less/bootstrap.less</name><params/></action>
+                <action method="addItem"><type>skin_css</type><name>bootstrap/less/theme.less</name><params/></action>
 
 
                 <!-- General styles -->
-                <action method="addItem"><type>skin_css</type><name>css/mbootstrap.min.css</name><params/></action>
-                <action method="addItem"><type>skin_css</type><name>css/mbootstrap.responsive.min.css</name><params/></action>
+                <action method="addItem"><type>skin_css</type><name>less/mbootstrap.less</name><params/></action>
+                <action method="addItem"><type>skin_css</type><name>less/responsive/mbootstrap.responsive.less</name><params/></action>
 
 
                 <!-- @MediaQueries styles -->
